@@ -1,0 +1,2 @@
+when you turn on this rover it look for shortest distance from it and goes to
+that wall and turn right and start cleaning in the pattren of stripes 
