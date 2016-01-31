@@ -10,8 +10,7 @@ Final Project Source Code which i did as a part of my [CS50x] 2015
 
 # List of components
     1. Arduino UNO (*1) (refer : https://www.arduino.cc/en/Main/ArduinoBoardUno )
-    2. 12V (*2) DC moters (i have them laying around so used you can use anyother
-    DC moter)
+    2. 12V (*2) DC moters (i have them laying around so used you can use any DC moter)
     3. L293D IC (*1) ( refer : http://www.engineersgarage.com/electronic-components/l293d-motor-driver-ic )
     4. 7805 voltage regulator (*1) ( refer : http://www.engineersgarage.com/electronic-components/7805-voltage-regulator-ic )
     5. HC-SRO4 UltraSonic Senser (*1) ( refer : http://www.instructables.com/id/Easy-ultrasonic-4-pin-sensor-monitoring-hc-sr04/ )
