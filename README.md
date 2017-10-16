@@ -1,12 +1,16 @@
 # [CS50x 2015] Final Project
+[CS50x] 2015 final project Source Code
 
-Final Project Source Code which i did as a part of my [CS50x] 2015 
->actually this is fall 2014 in harvard but it's offered in 2015 at edx.org
+---
+
+<p align="center">
+<img src="photos/1.jpg">
+</p>
+
+---
 
 # Final Project : Cleaning Rover
-##
 [![Video](http://img.youtube.com/vi/oftwGvL6mo0/0.jpg)](https://www.youtube.com/watch?v=oftwGvL6mo0 "Video")
-##
 
 # List of components
     1. Arduino UNO (*1) (refer : https://www.arduino.cc/en/Main/ArduinoBoardUno )
@@ -20,18 +24,10 @@ Final Project Source Code which i did as a part of my [CS50x] 2015
     9. body for robot
     10. robot wheels (*2)
     11. Cleaning Brush
-    12. Time + commonsense
-##
+
 # [Rest of Problem Sets]
     https://github.com/electron0zero/CS50x-2015-ProblemSets
-##
-# Blog Posts
-##
-##### [Final Project]
-##### [My Experience]
-   
-   [My Experience]:<https://electron0zero.wordpress.com/2015/11/02/my-experience-with-mooc-and-online-learning/>    
-   [Final Project]:<https://electron0zero.wordpress.com/2015/11/26/cs50-final-project/>
+
    [CS50x]:<https://www.edx.org/course/introduction-computer-science-harvardx-cs50x>
    [CS50x 2015]:<http://cs50.tv/2014/fall/>
    [Rest of Problem Sets]:<https://github.com/electron0zero/CS50x-2015-ProblemSets>
